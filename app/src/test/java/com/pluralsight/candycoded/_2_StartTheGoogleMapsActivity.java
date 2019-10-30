@@ -31,6 +31,7 @@ import static org.mockito.Mockito.mock;
 import static org.mockito.Mockito.verify;
 
 
+
 //@FixMethodOrder(MethodSorters.NAME_ASCENDING)
 @PrepareForTest({AppCompatActivity.class, Intent.class, Uri.class, InfoActivity.class})
 @RunWith(PowerMockRunner.class)
